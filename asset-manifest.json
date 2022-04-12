@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://tejaswinik28.github.io/csb-bh6jfj/static/js/main.9a972f29.chunk.js",
+    "main.js.map": "https://tejaswinik28.github.io/csb-bh6jfj/static/js/main.9a972f29.chunk.js.map",
+    "runtime-main.js": "https://tejaswinik28.github.io/csb-bh6jfj/static/js/runtime-main.f40cdffa.js",
+    "runtime-main.js.map": "https://tejaswinik28.github.io/csb-bh6jfj/static/js/runtime-main.f40cdffa.js.map",
+    "static/js/2.8796bb2d.chunk.js": "https://tejaswinik28.github.io/csb-bh6jfj/static/js/2.8796bb2d.chunk.js",
+    "static/js/2.8796bb2d.chunk.js.map": "https://tejaswinik28.github.io/csb-bh6jfj/static/js/2.8796bb2d.chunk.js.map",
+    "index.html": "https://tejaswinik28.github.io/csb-bh6jfj/index.html",
+    "static/js/2.8796bb2d.chunk.js.LICENSE.txt": "https://tejaswinik28.github.io/csb-bh6jfj/static/js/2.8796bb2d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f40cdffa.js",
+    "static/js/2.8796bb2d.chunk.js",
+    "static/js/main.9a972f29.chunk.js"
+  ]
+}
